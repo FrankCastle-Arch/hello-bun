@@ -12,4 +12,4 @@ Q. Where do programmer dads keep all their jokes?
 A. In a dad-a-base.
 
 This current project is a partner/group assignment to help us get more familar with issues and the ACP ritual.
-Repetitiveness is what helps with getting things stuck in my brain, so these kind of assignpartments really help me. Plus, I get to learn a little more about my classmates.
+Repetitiveness is what helps with getting things stuck in my brain, so these kind of assignments really help me. Plus, I get to learn a little more about my classmates.
