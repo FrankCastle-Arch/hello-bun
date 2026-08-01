@@ -1,7 +1,9 @@
 # My Setup
-- OS: (Mac/Windows + version)
-- Shell: (Git Bash / zsh with oh-my-zsh)
+- OS: Windows 11 Pro
+- Shell: Git Bash 
 - Bun version: (from bun --version)
-- Editor: (Notepad++ / BBEdit)
-- Mac only — Homebrew version: (from brew --version)
+- Editor: Notepad++
+
+
+My favorite command is `mkdir`
 
